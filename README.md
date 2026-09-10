@@ -48,7 +48,7 @@ The project was designed to achieve the following objectives:
 
 The project uses a centralized core-and-access architecture.
 
-![Network Design Topology](<Screenshot 2026-09-11 022408.png>)
+![Network Design Topology](<Network Design Topology.png>)
 
 ### Device Count
 
