@@ -1,6 +1,6 @@
 # 🔐 Secure VLAN Design for Departments
 
-> A Cisco Packet Tracer-based enterprise network design demonstrating departmental VLAN segmentation, Layer 3 Inter-VLAN Routing, VLSM addressing, and Extended ACLs for role-based communication control.
+A Cisco Packet Tracer-based enterprise network design demonstrating departmental VLAN segmentation, Layer 3 Inter-VLAN Routing, VLSM addressing, and Extended ACLs for role-based communication control.
 
 ---
 
