@@ -21,7 +21,7 @@ Each department is placed in a separate VLAN and IP subnet. A central Layer 3 sw
 
 The core security requirement is:
 
-> **Staff devices should communicate only within their own department, while Heads of Department (HODs) are allowed to communicate across departments for coordination.**
+**Staff devices should communicate only within their own department, while Heads of Department (HODs) are allowed to communicate across departments for coordination.**
 
 This project demonstrates how VLANs, trunking, Layer 3 switching, VLSM, and ACLs can be combined to create a structured and secure network.
 
